@@ -1,24 +1,11 @@
 # README
 
-This README would normally document whatever steps are necessary to get the
-application up and running.
+- add user information
+- connect users to books
 
-Things you may want to cover:
 
-* Ruby version
+frontend 
+- add login forms 
+- extract errors 
+- ability to add books to favorites 
 
-* System dependencies
-
-* Configuration
-
-* Database creation
-
-* Database initialization
-
-* How to run the test suite
-
-* Services (job queues, cache servers, search engines, etc.)
-
-* Deployment instructions
-
-* ...
